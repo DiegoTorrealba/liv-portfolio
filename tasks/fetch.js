@@ -17,9 +17,9 @@ if (fs.existsSync('./service_account_key.json')) {
 }
 
 // eslint-disable-next-line no-process-env
-if (process.env.SERVICE_ACCOUNT_CREDENTIALS) {
+if (process.env.LIV_SERVICE_ACCOUNT_CREDENTIALS) {
   // eslint-disable-next-line no-process-env
-  serviceAccountCredentials = process.env.SERVICE_ACCOUNT_CREDENTIALS;
+  serviceAccountCredentials = process.env.LIV_SERVICE_ACCOUNT_CREDENTIALS;
 }
 
 async function getData() {
