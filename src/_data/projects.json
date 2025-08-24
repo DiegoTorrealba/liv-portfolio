@@ -1,0 +1,11 @@
+{
+  "projects": [
+    {
+      "name": "project-test",
+      "date": "2025-08-23",
+      "type": "PDF",
+      "description": "project test for gulp",
+      "image": "liv_photos_1.jpg"
+    }
+  ]
+}

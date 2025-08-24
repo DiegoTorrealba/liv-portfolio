@@ -5,4 +5,10 @@
 {% block page_description %}Index for blog posts by Olivia Strohecker{% endblock %}
 
 {% block content %}
+
+  <h1>Blog</h1>
+  <h2>Recent blog posts</h2>
+  {% for blogPost in blog.blogs %}
+    <h3 class="display-5">{{blogPost.headline}}: {{blogPost.date}}</h3>
+  {% endfor %}
 {% endblock %}

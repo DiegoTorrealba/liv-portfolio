@@ -1,0 +1,46 @@
+{
+  "blogs": [
+    {
+      "slug": "2025-08-23",
+      "headline": "Blog test",
+      "date": "Aug. 23, 2025",
+      "image": "liv_photos_1.jpg",
+      "imageText": "A Girl and Her Trek, Sarah McNulty",
+      "post": [
+        {
+          "type": "text",
+          "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque non consectetur purus. Sed bibendum fermentum sem sit amet maximus. Nunc condimentum magna erat, at fringilla orci fringilla feugiat. Integer volutpat lacus ex, sit amet dictum quam sagittis ac. Vivamus ultrices nisi sit amet nibh vulputate condimentum. Nunc quis ultrices ante. Duis non velit in nunc pellentesque facilisis. Sed nec ultrices lectus. Quisque luctus dui aliquet facilisis cursus."
+        },
+        {
+          "type": "text",
+          "value": "Duis porta tristique erat, ut consequat sem bibendum in. Duis aliquet arcu ante. Nunc a fermentum sapien. Proin nec fringilla urna. Nam gravida ipsum finibus, convallis sapien in, mattis risus. Maecenas faucibus, orci quis iaculis congue, libero turpis rhoncus nulla, porttitor consequat nulla turpis non neque. Nulla quis ex quis turpis hendrerit condimentum id nec est."
+        },
+        {
+          "type": "text",
+          "value": "Integer imperdiet a est ac consectetur. Aenean tincidunt tempus purus, quis mattis mauris tincidunt sit amet. Sed suscipit lorem massa, non posuere nisi vehicula eget. Integer et libero mauris. Sed bibendum semper vulputate. Cras pretium lacinia eros. Suspendisse interdum mauris purus, in congue ligula fermentum ornare. Vivamus cursus massa quis pretium tincidunt. Donec sagittis malesuada tempus."
+        }
+      ]
+    },
+    {
+      "slug": "2025-08-24",
+      "headline": "Blog test 2",
+      "date": "Aug. 24, 2025",
+      "image": "liv_photos_2.jpg",
+      "imageText": "A Girl and Her Trek, Sarah McNulty",
+      "post": [
+        {
+          "type": "text",
+          "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque non consectetur purus. Sed bibendum fermentum sem sit amet maximus. Nunc condimentum magna erat, at fringilla orci fringilla feugiat. Integer volutpat lacus ex, sit amet dictum quam sagittis ac. Vivamus ultrices nisi sit amet nibh vulputate condimentum. Nunc quis ultrices ante. Duis non velit in nunc pellentesque facilisis. Sed nec ultrices lectus. Quisque luctus dui aliquet facilisis cursus."
+        },
+        {
+          "type": "text",
+          "value": "Duis porta tristique erat, ut consequat sem bibendum in. Duis aliquet arcu ante. Nunc a fermentum sapien. Proin nec fringilla urna. Nam gravida ipsum finibus, convallis sapien in, mattis risus. Maecenas faucibus, orci quis iaculis congue, libero turpis rhoncus nulla, porttitor consequat nulla turpis non neque. Nulla quis ex quis turpis hendrerit condimentum id nec est."
+        },
+        {
+          "type": "text",
+          "value": "Integer imperdiet a est ac consectetur. Aenean tincidunt tempus purus, quis mattis mauris tincidunt sit amet. Sed suscipit lorem massa, non posuere nisi vehicula eget. Integer et libero mauris. Sed bibendum semper vulputate. Cras pretium lacinia eros. Suspendisse interdum mauris purus, in congue ligula fermentum ornare. Vivamus cursus massa quis pretium tincidunt. Donec sagittis malesuada tempus."
+        }
+      ]
+    }
+  ]
+}
