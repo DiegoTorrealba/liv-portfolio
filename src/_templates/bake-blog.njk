@@ -1,3 +1,29 @@
 {% extends '_templates/base.njk' %}
 
 {% set relative_path = "../" %}
+
+{% from '_macros/prose.njk' import prose %}
+
+{% block page_title %}Blog - {{ slug }}{% endblock %}
+
+{% block page_description %}"{{ headline }}" by Olivia Strohecker, published {{ date }}.{% endblock %}
+
+{% block content %}
+  <article class="container">
+    <div class="row">
+      <div class="col-sm-8">
+        <h1>{{ headline }}</h1>
+        <p>By Olivia Strohecker<br>{{ date }}</p>
+        <div class="blog-text border-top">
+          {{ prose(post) }}
+        </div>
+      </div>
+      <div class="col-sm-4">
+        <figure class="blog-image">
+          <img src="../img/{{ image }}" alt="{{ imageText }}" class="img-fluid">
+          <figcaption class="blog-image-caption">{{ imageText }}</figcaption>
+        </figure>
+      </div>
+    </div>
+  </article>
+{% endblock %}

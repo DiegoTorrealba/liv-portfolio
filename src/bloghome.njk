@@ -6,15 +6,15 @@
 
 {% block content %}
 
-  <div class="px-5">
+  <div class="container">
     <h1 class = "display-1">Blog</h1>
     <p class="blog-counter">Number of blog posts: {{ blog.blogs | length }}</p>
     <p class="blog-description">Description of blog and what you typically write about.</p>
     <h2 class = "display-3">Blog Posts Index</h2>
     <ul class="blog-posts-list">
-    {% for blogPost in blog.blogs %}
+    {% for blogPost in blog.blogs | reverse %}
       <li>
-        <h3 class="">{{blogPost.headline}}: {{blogPost.date}}</h3>
+        <h3 class="{% if loop.first %}first{% endif %}"><a href="{{ relative_path }}blog-posts/{{ blogPost.slug }}.html">{{ blogPost.headline }}</a>: {{ blogPost.date }}</h3>
       </li>
     {% endfor %}
     </ul>
