@@ -6,9 +6,17 @@
 
 {% block content %}
 
-  <h1>Blog</h1>
-  <h2>Recent blog posts</h2>
-  {% for blogPost in blog.blogs %}
-    <h3 class="display-5">{{blogPost.headline}}: {{blogPost.date}}</h3>
-  {% endfor %}
+  <div class="px-5">
+    <h1 class = "display-1">Blog</h1>
+    <p class="blog-counter">Number of blog posts: {{ blog.blogs | length }}</p>
+    <p class="blog-description">Description of blog and what you typically write about.</p>
+    <h2 class = "display-3">Blog Posts Index</h2>
+    <ul class="blog-posts-list">
+    {% for blogPost in blog.blogs %}
+      <li>
+        <h3 class="">{{blogPost.headline}}: {{blogPost.date}}</h3>
+      </li>
+    {% endfor %}
+    </ul>
+  </div>
 {% endblock %}

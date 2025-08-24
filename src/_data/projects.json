@@ -5,7 +5,28 @@
       "date": "2025-08-23",
       "type": "PDF",
       "description": "project test for gulp",
-      "image": "liv_photos_1.jpg"
+      "url": "liv_photos_1.jpg"
+    },
+    {
+      "name": "Cinema for Students Among Writer's Strike",
+      "date": "2023-10",
+      "type": "Video",
+      "description": "",
+      "url": "https://youtu.be/OkhQ4UaxXvs?si=1tXTqHEhQODU-cCJ"
+    },
+    {
+      "name": "Being Brigitte: Advocacy & Artistry",
+      "date": "2025-05",
+      "type": "Video",
+      "description": "",
+      "url": "https://youtu.be/PKDbUjAu0ps?si=-o1R7NwiuxEmbD7E"
+    },
+    {
+      "name": "Fashion Focus: How These Students are Redefining Style on UT's Campus",
+      "date": "2025-07-18",
+      "type": "Video",
+      "description": "",
+      "url": "https://youtu.be/4PyOh-pQ6sA?si=Ji1IE7G2xmAl3f8D"
     }
   ]
 }
