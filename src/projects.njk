@@ -5,5 +5,26 @@
 {% block page_description %}A collection of projects and writing samples by Olivia Strohecker{% endblock %}
 
 {% block content %}
+<div>
+  <h1 class="px-5 display-1 text-center">Projects</h1>
+</div>
+<div class="container">
+  <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 g-3">
+    {% for project in projects.projects | reverse %}
+      <div class="col">
+        <div class="card h-100">
+          <div class="card-body d-flex flex-column">
+            <h5 class="card-title">{{ project.name }} {% if loop.first %}<span class="badge text-bg-secondary">NEW!</span>{% endif %}</h5>
+            <h6 class="card-subtitle mb-2 text-body-secondary">{{ project.date }} <span class="badge rounded-pill text-bg-primary"> {{project.type}} </span></h6>
+            <p class="card-text">{{ project.description }}</p>
+            <div class="text-center mt-auto">
+              <a href="{{ project.url }}" class="card-link" target="_blank">Check it out!</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    {% endfor %}
 
+  </div>
+</div>
 {% endblock  %}
