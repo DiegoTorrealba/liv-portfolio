@@ -1,13 +1,6 @@
 {
   "projects": [
     {
-      "name": "project-test",
-      "date": "2025-08-23",
-      "type": "PDF",
-      "description": "project test for gulp",
-      "url": "liv_photos_1.jpg"
-    },
-    {
       "name": "Cinema for Students Among Writer's Strike",
       "date": "2023-10",
       "type": "Video",
