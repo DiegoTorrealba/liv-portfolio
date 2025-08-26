@@ -6,6 +6,15 @@
 // $link-hover-color: grey;
 // $font-family-sans-serif: "Helvetica Neue";
 
+$moss-green: #9D9C62;
+$anti-flash-white: #EFF1F3;
+$dark-green: #041F1E;
+
+$body-bg: $anti-flash-white;
+$link-hover-color: $moss-green;
+$link-color: $dark-green;
+$primary: $dark-green;
+
 /* bootstrap */
 // Option A: Include all of Bootstrap
 @import '../../node_modules/bootstrap/scss/bootstrap';
@@ -22,6 +31,4 @@
 @import 'nav';
 @import 'jumbotron';
 
-h3 {
-  font-size: 1.5rem;
-}
+// universal styles

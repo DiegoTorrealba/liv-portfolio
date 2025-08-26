@@ -14,7 +14,7 @@
     <ul class="blog-posts-list">
     {% for blogPost in blog.blogs | reverse %}
       <li>
-        <h3 class="{% if loop.first %}first{% endif %}"><a href="{{ relative_path }}blog-posts/{{ blogPost.slug }}.html">{{ blogPost.headline }}</a>: {{ blogPost.date }}</h3>
+        <h3 class="{% if loop.first %}first{% endif %}"><a href="{{ relative_path }}blog-posts/{{ blogPost.slug }}.html">{{ blogPost.headline }}</a>: {{ blogPost.date }} {% if loop.first %}<span class="badge text-bg-secondary">NEW!</span>{% endif %}</h3>
       </li>
     {% endfor %}
     </ul>
