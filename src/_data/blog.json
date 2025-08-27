@@ -1,6 +1,92 @@
 {
   "blogs": [
     {
+      "slug": "2024-04-25",
+      "headline": "How a free social art community at UT Austin is impacting artists as shown through their annual gallery night",
+      "date": "April 25, 2024",
+      "image": "",
+      "imageText": "",
+      "description": "Final feature story for J 310F",
+      "post": [
+        {
+          "type": "text",
+          "value": "With the semester nearing its end, the month of April tightens its grip on the University of Texas campus as students find themselves lost in the stress of deadlines and finals. Amid the end-of-year chaos emerged an enchanting mythology-themed escape, Collaborative Artists of UT’s Gallery Night, to celebrate the magic of art in all forms."
+        },
+        {
+          "type": "text",
+          "value": "Tables dressed in shimmering gold fabric topped with white lilies and roses filled the Texas Union’s Quadrangle Room April 19 for the club’s annual semi-formal event of art appreciation, music and socialization. Laughter and conversation filled the room as students gathered to support each other’s creations."
+        },
+        {
+          "type": "text",
+          "value": "Collaborative Artists member Clarisse Tudon described the club as for anyone interested in art in any capacity, fostering a diverse and welcoming community of creatives."
+        },
+        {
+          "type": "text",
+          "value": "“People join regardless of skill level or the kind of art they’re interested in,” Tudon said. “Some members write and some make poetry or do photography, so there’s a lot of different mediums and it’s really interesting to see.”"
+        },
+        {
+          "type": "text",
+          "value": "The event’s theme intertwined with Collaborative Artists’ most recent digital and mythology-themed magazine. The intricately crafted photo backdrop, adorned with draping vines and faux ancient architectural columns helped set the stage as the digital works of members’ mythogically-inspired digital pieces were revealed overhead."
+        },
+        {
+          "type": "text",
+          "value": "The group’s public relations officer Allison Biek’s stand-out interpretation of Aphrodite was among the digital artworks featured. Biek said she wanted her version of Aphrodite to portray normal and beautiful features that are often criticized and overlooked in a lot of art."
+        },
+        {
+          "type": "text",
+          "value": "“Because she is the goddess of love and beauty, I decided to represent things that aren’t always considered beautiful in our society,” Biek said. “I gave my Aphrodite stretch marks, hip dips, body hair and a fuller figure because I wanted to push back against typical portrayals of Aphrodite in the media.”"
+        },
+        {
+          "type": "text",
+          "value": "Collaborative Artists member Michelle Hsu had a different approach with her magazine fan art, “A Story for One Person.” Hsu said since this piece was heavily inspired by the epilogue of author Sing Shong’s novel “Omniscent Reader’s Viewpoint.”"
+        },
+        {
+          "type": "text",
+          "value": "“I don’t draw much fan art, mostly original stuff,” Hsu said. “But, occasionally there are random stories that click to me with specific groups of characters, and this novel stood out to me to want to draw about it.”"
+        },
+        {
+          "type": "text",
+          "value": "Collaborative Artists’ creatives may differ vastly in terms of art style or category, but many of the artists draw inspiration from the same things or in similar ways."
+        },
+        {
+          "type": "text",
+          "value": "While Tudon had a digital piece of the Greek God of wine, Dionysus, displayed from the digital magazine, her impressive two physical acrylic paintings boasted great attention to detail and sharp side profile portraits. Tudon said she often watches movies where she finds herself inspired to paint certain characters differently than they are represented in the film."
+        },
+        {
+          "type": "text",
+          "value": "“The first painting is of James Spader in the film ‘Crash’ and the second is Alan Rickman from ‘Truly Madly Deeply,’” Tudon said. “I really like their acting styles, and I love how diverse each of the roles they play are, so I like to paint their characters as the opposite of how they’re shown.”"
+        },
+        {
+          "type": "text",
+          "value": "The evening’s atmosphere transformed following the physical gallery walk and digital art displays, as the club’s officers led activities like playing “Just Dance”. Pop singer Kesha’s hit song, “Tik Tok” energized the room as giggles escaped from the members with every dance move."
+        },
+        {
+          "type": "text",
+          "value": "The closeness and inclusivity of Collaborative Artists was not only visibly apparent in this moment, but also heartwarming to witness."
+        },
+        {
+          "type": "text",
+          "value": "“We were able to find enjoyment and quality time in celebrating our artistic achievements and doing fun activities,” said Faustin Puno, first-year student and one of Collaborative Artists’ junior officers."
+        },
+        {
+          "type": "text",
+          "value": "Puno said he was able to experience a unique sense of belonging and inclusivity he couldn’t seem to find in other organizations."
+        },
+        {
+          "type": "text",
+          "value": "“Being a freshman in college, I felt like a small fish in a vast ocean, seeking a sense of belonging where I felt comfortable expressing my passion for art with like-minded creatives,” Puno said. “Finding people with common ground who are comfortable with authentically expressing themselves made me feel welcomed and appreciated for my presence.”"
+        },
+        {
+          "type": "text",
+          "value": "Biek said she was focused mostly on completing officer duties during the gallery night instead of participating, but enjoyed witnessing the fun she helped create."
+        },
+        {
+          "type": "text",
+          "value": "“The gallery night is a great opportunity for the artists to socialize with other members and form deeper connections with people they are already close to,” Biek said. “Overall, the camaraderie and seeing artists supporting fellow artists made all the stress of getting the event together worth it.”"
+        }
+      ]
+    },
+    {
       "slug": "2025-04-07",
       "headline": "Gilded Lillies",
       "date": "April 7, 2025",
@@ -107,28 +193,6 @@
         {
           "type": "text",
           "value": "Perfection."
-        }
-      ]
-    },
-    {
-      "slug": "2025-04-25",
-      "headline": "How a free social art community at UT Austin is impacting artists as shown through their annual gallery night",
-      "date": "April 25, 2025",
-      "image": "",
-      "imageText": "",
-      "description": "",
-      "post": [
-        {
-          "type": "text",
-          "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque non consectetur purus. Sed bibendum fermentum sem sit amet maximus. Nunc condimentum magna erat, at fringilla orci fringilla feugiat. Integer volutpat lacus ex, sit amet dictum quam sagittis ac. Vivamus ultrices nisi sit amet nibh vulputate condimentum. Nunc quis ultrices ante. Duis non velit in nunc pellentesque facilisis. Sed nec ultrices lectus. Quisque luctus dui aliquet facilisis cursus."
-        },
-        {
-          "type": "text",
-          "value": "Duis porta tristique erat, ut consequat sem bibendum in. Duis aliquet arcu ante. Nunc a fermentum sapien. Proin nec fringilla urna. Nam gravida ipsum finibus, convallis sapien in, mattis risus. Maecenas faucibus, orci quis iaculis congue, libero turpis rhoncus nulla, porttitor consequat nulla turpis non neque. Nulla quis ex quis turpis hendrerit condimentum id nec est."
-        },
-        {
-          "type": "text",
-          "value": "Integer imperdiet a est ac consectetur. Aenean tincidunt tempus purus, quis mattis mauris tincidunt sit amet. Sed suscipit lorem massa, non posuere nisi vehicula eget. Integer et libero mauris. Sed bibendum semper vulputate. Cras pretium lacinia eros. Suspendisse interdum mauris purus, in congue ligula fermentum ornare. Vivamus cursus massa quis pretium tincidunt. Donec sagittis malesuada tempus."
         }
       ]
     }

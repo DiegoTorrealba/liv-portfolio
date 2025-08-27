@@ -39,3 +39,19 @@ a.btn-primary {
   --bs-btn-hover-bg: #{$moss-green}; // example of interpolation
   --bs-btn-hover-border-color: #{$moss-green};
 }
+
+.display-1, .display-3, .display-5 {
+  font-family: "Charm", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.card-title {
+  font-family: "DM Serif Display", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+p {
+  font-family: 'Times New Roman', Times, serif;
+}
