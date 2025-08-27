@@ -6,14 +6,16 @@
 // $link-hover-color: grey;
 // $font-family-sans-serif: "Helvetica Neue";
 
-$moss-green: #9D9C62;
-$anti-flash-white: #EFF1F3;
-$dark-green: #041F1E;
+$antiflash-white: hsla(210, 14%, 95%, 1);
+$moss-green: hsla(59, 23%, 50%, 1);
+$dark-green: hsla(178, 77%, 7%, 1);
+$moss-green-light: hsla(59, 23%, 50%, .50);
 
-$body-bg: $anti-flash-white;
+$body-bg: $antiflash-white;
 $link-hover-color: $moss-green;
 $link-color: $dark-green;
 $primary: $dark-green;
+
 
 /* bootstrap */
 // Option A: Include all of Bootstrap
@@ -32,3 +34,8 @@ $primary: $dark-green;
 @import 'jumbotron';
 
 // universal styles
+
+a.btn-primary {
+  --bs-btn-hover-bg: #{$moss-green}; // example of interpolation
+  --bs-btn-hover-border-color: #{$moss-green};
+}

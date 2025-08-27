@@ -14,10 +14,12 @@
 }
 
 .jumbo-inner {
-  background-color: red;
+  background-color: $moss-green-light;
   block-size: fit-content;
+  border: 4px solid $moss-green;
+  color: $antiflash-white;
 }
 
 .jumbo {
-  background-color: blue;
+  background-color: $dark-green;
 }
